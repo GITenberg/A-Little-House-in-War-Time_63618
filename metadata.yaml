@@ -1,0 +1,37 @@
+_repo: A-Little-House-in-War-Time_63618
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robinson, Charles Henry
+    birthdate: 1841
+    gutenberg_agent_id: '4622'
+    url: http://www.gutenberg.org/2009/agents/4622
+creator:
+  authors:
+  - agent_name: Castle, Egerton
+    birthdate: 1858
+    deathdate: 1920
+    gutenberg_agent_id: '4570'
+    url: http://www.gutenberg.org/2009/agents/4570
+    wikipedia: https://en.wikipedia.org/wiki/Egerton_Castle
+  - agent_name: Castle, Agnes
+    aliases:
+    - Castle, Agnes Sweetman
+    - Sweetman, Agnes
+    deathdate: 1922
+    gutenberg_agent_id: '42676'
+    url: http://www.gutenberg.org/2009/agents/42676
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Castle
+description: ''
+gutenberg_issued: '2020-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63618'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Little House in War Time
+url: http://www.gutenberg.org/ebooks/63618
