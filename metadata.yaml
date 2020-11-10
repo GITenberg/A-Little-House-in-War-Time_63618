@@ -1,11 +1,14 @@
 _repo: A-Little-House-in-War-Time_63618
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Robinson, Charles Henry
     birthdate: 1841
     gutenberg_agent_id: '4622'
     url: http://www.gutenberg.org/2009/agents/4622
+covers:
+- cover_type: archival
+  image_path: 63618-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Castle, Egerton
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42676
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Castle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63618#A-Little-House-in-War-Time
 gutenberg_issued: '2020-11-03'
 gutenberg_type: Text
 identifiers:
